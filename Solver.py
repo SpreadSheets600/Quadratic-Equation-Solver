@@ -2,9 +2,6 @@ import tkinter as tk
 import cmath
 import math
 
-# Define a function to solve the quadratic equation
-
-
 def solve_quadratic(a, b, c):
     d = (b**2) - (4*a*c)
 
